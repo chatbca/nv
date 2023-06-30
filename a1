@@ -68,3 +68,67 @@ Welcome to Udupi Group of Institutions, Manipal Udupi Group of Institutions, Man
 </footer>
 </body>
 </html>
+contact.html
+<html>
+<head>
+<title>Contacts</title>
+</head>
+<body>
+<h2>Contact us</h2>
+<table>
+<tr>
+<th>Phone number</th>
+<th>Email</th>
+<th>Address</th>
+</tr>
+<tr>
+<td>9844898383</td>
+<td> www.udupicolleges.edu.in</td>
+<td>Udupi Group Of Institutions,Manipal.</td>
+</tr>
+</table>
+<br>
+<a href="home.html">HOME PAGE</a>
+</body>
+</html>
+
+
+facilities.html
+<html>
+<head>
+<title>Facility</title>
+</head>
+<body>
+<h1>Facilities</h1>
+<ul>
+<li>Library</li>
+<li>Computer Lab</li>
+<li>Science Lab</li>
+<li>Sports Ground</li>
+<li>Cafeteria</li>
+<li>Hostel</li>
+</ul>
+<br>
+<a href="home.html">HOME PAGE</a>
+</body>
+</html>
+
+course.html
+<html>
+<head>
+<title>Courses</title>
+</head>
+<body>
+<h1>Courses Offered</h1>
+<ol>
+<li>Bachelor of Science (B.Sc)</li>
+<li>Bachelor of Arts (B.A)</li>
+<li>Bachelor of Commerce (B.Com)</li>
+<li>Bachelor of Computer Applications (BCA)</li>
+<li>Bachelor of Business Administration (BBA)</li>
+<li>Bachelor of Education (B.Ed)</li>
+</ol>
+<br>
+<a href="home.html">HOME PAGE</a>
+</body>
+</html
